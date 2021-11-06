@@ -1,7 +1,7 @@
 # Operator-Mono-font-family-
 this font family is free to use , 
 
-how to do this?
+how to do this? </br>
 1, first clone or download this repo.</br>
 2, then unzip this file</br>
 3, go to unzip folder, and choose your choice</br>
